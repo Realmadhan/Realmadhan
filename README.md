@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Realmadhan
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Amazon Web Services
+- 🌱 I’m currently learning & Teaching Amazon Web Services
 - 💞️ I’m looking to collaborate on CI/CD
 - 📫 How to reach me @real_madhan
 
